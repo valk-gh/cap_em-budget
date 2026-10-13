@@ -4,7 +4,8 @@ CapM: Encouraging smart spending habits. Know your spendings, then cap 'em.
 ## The Idea & Goal 
 People love to spend; cannot blame them, I love it, too. However it can definitely turn to a bad habit (speaking from experience).  
 I wanted to eradicate this habit by making an actual useful tool for myself, and hopefully for others as well.  
-With CapM you can track your spending, either manually inputing your data or uploading a bank statement to automatically fetch data. The system will then process spending cap estimates (or you can manually choose your caps).   
+With CapM you can track your spending, either manually inputing your data or uploading a bank statement to automatically fetch data.  
+The system will then process spending cap estimates (or you can manually choose your caps).   
 The goal is for CapM to teach financial literacy and allow the user to build a healthy habit that can go a long way!
 
 ## Key Features
